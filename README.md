@@ -8,6 +8,7 @@ Welcome to the **Data Engineering** repository. This repository contains the com
 
 * **`Data_Engineering_Practical_Journal_Om_Bichave_1_to_10.ipynb`**: Complete Jupyter Notebook containing hands-on implementations, data processing pipelines, queries, and execution outputs for Practicals 1 to 10.
 * **`Main_Data_Engineering_Practical_Manual_1_to_10_FINALom_CodeBoxes.docx`**: The primary lab manual containing step-by-step instructions, practical setups, code boxes, and documented output reports.
+* **`mini_project.py`**: Standalone executable Python pipeline script for **Practical 10 (Mini Project)** implementing end-to-end ingestion, cleaning, transformation, operational storage, Star Schema dimensional modeling, and analytical reporting.
 
 ---
 
@@ -22,7 +23,7 @@ Welcome to the **Data Engineering** repository. This repository contains the com
 7. **Practical 7**: Comprehensive ETL Pipeline Design & Incremental Data Loading
 8. **Practical 8**: Distributed Data Processing with PySpark DataFrames
 9. **Practical 9**: End-to-End Multi-Entity E-Commerce Data Pipeline
-10. **Practical 10**: Real-Time Streaming Data Pipeline & Anomaly Detection (Z-Score & Threshold Monitoring)
+10. **Practical 10 (Mini Project)**: End-to-End Data Engineering Solution (Ingestion, Cleaning, Transformation, Storage, Star Schema Data Warehouse Design & Executive BI Reporting) — *Group of 2: Om Bichave & Aryan Rane*
 
 ---
 
@@ -32,4 +33,4 @@ Welcome to the **Data Engineering** repository. This repository contains the com
 * **Roll No.**: 05
 * **Student ID**: 5175519
 * **Class**: T.Y. Data Science
-* **Lab Partner (Prac 10)**: Aryan Rane
+* **Lab Partner (Practical 10)**: Aryan Rane
